@@ -1,7 +1,7 @@
 # Hazelcast Mesos
 
 ***
-> :warning: **_REMARK:_** :warning:
+> :warning: **REMARK:** :warning:
 >
 > Dear community members,
 >

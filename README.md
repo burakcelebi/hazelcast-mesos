@@ -1,5 +1,5 @@
----
-**REMARK**
+[REMARK]
+====
 
 Dear community members,
 
@@ -9,7 +9,7 @@ Hazelcast Inc. gives this project to the developers community in the hope you ca
 
 Feel free to visit our Slack Community for any help and feedback.
 
----
+====
 
 # Hazelcast Mesos
 
